@@ -69,7 +69,7 @@ header ul li a {
 .content .textBox h2 {
     color: #333;
     font-size: 4rem;
-    line-height: 5rem;
+   
     font-weight: 500;
 }
 
@@ -104,7 +104,7 @@ header ul li a {
 }
 
 .content .imgBox img {
-    max-width: 340px;
+    max-width: 3000px;
 }
 
 .thumb {
@@ -251,9 +251,7 @@ header ul li a {
         margin-bottom: 5px;
     }
     .content .textBox {
-    
         max-width: 100%;
-
     }
     .content .imgBox {
         max-width: 100%;
